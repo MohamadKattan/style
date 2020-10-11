@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "968513243660",
+    "firebase_url": "https://style-45d08.firebaseio.com",
+    "project_id": "style-45d08",
+    "storage_bucket": "style-45d08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968513243660:android:eae8d01c12328334b9fc29",
+        "android_client_info": {
+          "package_name": "com.KattanSoftware.style"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968513243660-4vmki57ectsc3o8l24ls68i9nc10umeh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaXgZkB3Vx6-03Xx7Qp0aShqNnU2hG1SI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968513243660-4vmki57ectsc3o8l24ls68i9nc10umeh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
